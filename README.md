@@ -1,7 +1,8 @@
 How to download and install Office 2019 for FREE
 
 - Download the Office Deployment Tool in English from https://www.microsoft.com/en-us/download/details.aspx?id=49117
-- Download the customization tool (64 or 32 bits; if you're unsure about your PC's architecture, determine it before proceeding). In the customization tool, set your language, choose the Pro option, and export the file with the name configuration.xml.
+- Download the customization tool (64 or 32 bits; if you're unsure about your PC's architecture, determine it before proceeding) https://config.office.com/deploymentsettings
+- In the customization tool, set your language, choose the Pro option, and export the file with the name configuration.xml
 	Create a folder named "office2019" and save it on the C drive.
 	Save the configuration.xml file inside this folder.
 	Save the Office Deployment Tool file inside the "office2019" folder.
@@ -22,7 +23,7 @@ If it worked, follow me =]
 Como baixar e instalar o office 2019 GRATIS
 
 - baixar o office deplyment tool em ingles mesmo https://www.microsoft.com/en-us/download/details.aspx?id=49117
-- baixar o customization tool (64 ou 32 bits se você nao sabe qual é você precisa descobrir qual arquitetura do seu pc)
+- baixar o customization tool (64 ou 32 bits se você nao sabe qual é você precisa descobrir qual arquitetura do seu pc) https://config.office.com/deploymentsettings
 	no customization tool configure seu idioma e escolha a opção pró, exporte o arquivo com o nome configuration.xml
 
 crie uma pasta chamada office2019 e salve ela no disco local c
