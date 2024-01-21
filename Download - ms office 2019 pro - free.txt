@@ -6,6 +6,8 @@ How to download and install Office 2019 for FREE
 	Save the configuration.xml file inside this folder.
 	Save the Office Deployment Tool file inside the "office2019" folder.
 
+Execute o programa Deployment Tool ele abrirá uma janela selecione a pasta office2019 criada anteriormente
+
 Execute commands in the Command Prompt (CMD):
 Type "CMD" in the start menu, right-click, and run as administrator.
 Inside the CMD, type the command: cd c:\office2019 and press enter.
