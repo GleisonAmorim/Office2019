@@ -17,6 +17,12 @@ Explanation: The "cd c:\office2019" command opens the folder where you saved the
 
 Make sure to download the 2019 version, as I tested it and it worked.
 
+Possible errors:
+
+You forgot to run the deployment tool.
+You forgot to save the files inside the "office2019" folder.
+The configuration file has the wrong name (it must be named "configuration").
+
 If it worked, follow me;
 
 #
@@ -43,5 +49,10 @@ Explicação:  o comando "cd c:\office2019" fará com que o cmd abra a pasta que
 		o comando setup.exe /configure configuration.xml irá executar a instalação de acordo com as configurações que você escolheu no início quando utilizou o customization tool
 
 Lembre-se de baixar a versão 2019, pois eu testei com essa e deu certo
+
+Possíveis erros: 
+1 Você esqueceu de executar o deplyment tool
+2 Você esqueceu de salvar os arquivos dentro da pasta office2019
+3 O arquivo configuration está com o nome errado (ele tem que estar com o nome configuration)
 
 Se deu certo me sigam vou começar fazer vídeos para o canal sobre.
