@@ -1,4 +1,4 @@
-How to download and install Office 2019 for FREE
+How to download and install Office 2019 or others for FREE
 
 - Download the Office Deployment Tool in English from https://www.microsoft.com/en-us/download/details.aspx?id=49117
 - Download the customization tool https://config.office.com/deploymentsettings (64 or 32 bits; if you're unsure about your PC's architecture, determine it before proceeding). In the customization tool, set your language, choose the Pro option, and export the file with the name configuration.xml 
@@ -24,6 +24,8 @@ You forgot to save the files inside the "office2019" folder.
 The configuration file has the wrong name (it must be named "configuration").
 
 If it worked, follow me;
+
+Note: This repository includes the 2024 version.
 
 #
 
@@ -56,3 +58,5 @@ Possíveis erros:
 3 O arquivo configuration está com o nome errado (ele tem que estar com o nome configuration)
 
 Se deu certo me sigam vou começar fazer vídeos para o canal sobre.
+
+obs: nesse repositório eu incluí a versão de 2024
